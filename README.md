@@ -1,0 +1,4 @@
+ROYGBIV
+=======
+
+Roygbiv in Coding
