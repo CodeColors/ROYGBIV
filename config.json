@@ -1,0 +1,37 @@
+{
+  "RED": {
+    "language": "CPlusPlus",
+    "length": 100,
+    "extension": ".cpp"
+  },
+  "ORANGE": {
+    "language": "Javascript",
+    "length": 99,
+    "extension": ".js"
+  },
+  "YELLOW": {
+    "language": "Parror",
+    "length": 98,
+    "extension": ".pasm"
+  },
+  "GREEN": {
+    "language": "VimL",
+    "length": 97,
+    "extension": ".vim"
+  },
+  "BLUE": {
+    "language": "Perl",
+    "length": 96,
+    "extension": ".pl"
+  },
+  "INDIGO": {
+    "language": "PHP",
+    "length": 95,
+    "extension": ".php"
+  },
+  "VIOLET": {
+    "language": "VisualBasic",
+    "length": 94,
+    "extension": ".vb"
+  }
+}
